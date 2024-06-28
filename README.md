@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Muhammad Fahd, this GitHub page page was established to showcase some of the projects that I had created alongside my journey that has thus taken me this far. The Programming Languages I currently know are; Python, Java, C#, Assembly x86, HTML, CSS, SQL. I am currently learning Rust.
+
 <!--
 **mfahdk/mfahdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
